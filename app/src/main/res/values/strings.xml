@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testProject</string>
+    <string name="Tab_One">TAB ONE</string>
+    <string name="Tab_Two">TAB TWO</string>
+</resources>
